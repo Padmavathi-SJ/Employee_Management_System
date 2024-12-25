@@ -8,3 +8,9 @@
 * Logout
 
 ### User(Employee)
+* Dashbord
+* Profile
+* Allocated Work
+* Salary
+* Leave
+* Logout
